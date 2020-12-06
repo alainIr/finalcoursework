@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Employee App</string>
+    <string name="createLabel">Create An Employee Here!</string>
+    <string name="createBtn">Create</string>
+    <string name="loginLabel">Login To Continue</string>
+    <string name="loginBtn">Login</string>
+    <string name="profile">Profile</string>
+</resources>
